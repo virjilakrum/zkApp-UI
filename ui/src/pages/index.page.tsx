@@ -1,4 +1,5 @@
-//Use o1js not snarkyjs
+
+//Update and add o1js to snarkyjs
 import Head from 'next/head';
 import Image from 'next/image';
 import { useEffect } from 'react';
