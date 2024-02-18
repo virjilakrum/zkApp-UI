@@ -1,2 +1,2 @@
-# zkApp-UI
+# zkapp-UI
 Browser UI
